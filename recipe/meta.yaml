@@ -1,5 +1,5 @@
 {% set name = "pyradios" %}
-{% set version = "0.0.22" %}
+{% set version = "1.0.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pyradios-{{ version }}.tar.gz
-  sha256: b136013b79b1921c60c6e8099714cf0e5f0cb4fded9aa035d7cbcbf3375aeead
+  sha256: 0fd3b234c635d9e628bdadb9dc3a820405631b54977402719a641d2e1cc3f7b6
 
 build:
   number: 0
