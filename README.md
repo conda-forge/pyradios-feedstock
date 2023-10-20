@@ -1,11 +1,11 @@
-About pyradios
-==============
+About pyradios-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyradios-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/andreztz/pyradios
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyradios-feedstock/blob/main/LICENSE.txt)
 
 Summary: A Python wrapper for the http://www.radio-browser.info/webservice
 
